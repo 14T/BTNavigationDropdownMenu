@@ -6,6 +6,8 @@
 <!--[![Build Status](https://travis-ci.org/PhamBaTho/BTNavigationDropdownMenu.svg?branch=master)](https://travis-ci.org/PhamBaTho/BTNavigationDropdownMenu)-->
 
 ## Introduction:
+
+[![Join the chat at https://gitter.im/BTNavigationDropdownMenu/Lobby](https://badges.gitter.im/BTNavigationDropdownMenu/Lobby.svg)](https://gitter.im/BTNavigationDropdownMenu/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The elegant dropdown menu, written in **Swift**, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 
 ![alt tag](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
